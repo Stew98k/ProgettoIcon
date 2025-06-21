@@ -1,0 +1,18 @@
+rdflib
+SPARQLWrapper~=2.0.0
+pandas~=2.2.3
+networkx~=3.4.2
+ortools~=9.12.4544
+requests~=2.32.3
+python-dateutil
+tqdm~=4.67.1
+osmnx     # facoltativo
+geopy~=2.4.1
+ortools>=9.0
+
+numpy~=2.2.6
+scikit-learn~=1.6.1
+matplotlib~=3.10.3
+experta~=1.9.4
+kneed~=0.8.5
+imbalanced-learn~=0.13.0

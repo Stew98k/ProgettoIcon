@@ -1,0 +1,335 @@
+uri,label,lat,lon,type,open,close
+http://dbpedia.org/resource/San_Giacomo_alla_Lungara,San Giacomo alla Lungara,41.89500045776367,12.46583366394043,Museum,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_dei_Fiorentini,San Giovanni dei Fiorentini,41.89970016479492,12.46500015258789,Museum,19:57,00:00
+http://dbpedia.org/resource/San_Lorenzo_in_Damaso,San Lorenzo in Damaso,41.89687347412109,12.47200870513916,Museum,07:49,00:00
+http://dbpedia.org/resource/San_Lorenzo_in_Lucina,San Lorenzo in Lucina,41.90341567993164,12.47869491577148,Museum,05:53,21:00
+http://dbpedia.org/resource/San_Luigi_dei_Francesi,San Luigi dei Francesi,41.89972305297852,12.47472190856934,Museum,13:11,8:00
+http://dbpedia.org/resource/San_Pietro_in_Vincoli,San Pietro in Vincoli,41.89389038085938,12.49305534362793,Museum,10:20,19:00
+http://dbpedia.org/resource/Sant'Andrea_delle_Fratte,Sant'Andrea delle Fratte,41.90359878540039,12.48359966278076,Museum,14:46,7:00
+http://dbpedia.org/resource/Santa_Bibiana,Santa Bibiana,41.89555358886719,12.50918865203857,Museum,04:25,2:00
+http://dbpedia.org/resource/Santa_Maria_del_Popolo,Santa Maria del Popolo,41.9113883972168,12.47638893127441,Museum,11:42,14:00
+http://dbpedia.org/resource/Santa_Maria_della_Pace,Santa Maria della Pace,41.89987182617188,12.47163963317871,Museum,15:35,3:00
+http://dbpedia.org/resource/Santa_Maria_sopra_Minerva,Santa Maria sopra Minerva,41.89805603027344,12.47833347320557,Museum,15:38,5:00
+http://dbpedia.org/resource/Boncompagni_Ludovisi_Decorative_Art_Museum,Boncompagni Ludovisi Decorative Art Museum,41.90860748291016,12.49516105651855,Museum,09:00,18:00
+http://dbpedia.org/resource/Galleria_Borghese,Galleria Borghese,41.91416549682617,12.49194431304932,Museum,11:30,09:00
+"http://dbpedia.org/resource/Galleria_Comunale_d'Arte_Moderna,_Rome","Galleria Comunale d'Arte Moderna, Rome",41.90399932861328,12.48579978942871,Museum,09:00,18:00
+http://dbpedia.org/resource/Galleria_Nazionale_d'Arte_Antica,Galleria Nazionale d'Arte Antica,41.90351486206055,12.49020862579346,Museum,11:06,28:00
+http://dbpedia.org/resource/Galleria_Nazionale_d'Arte_Moderna,Galleria Nazionale d'Arte Moderna,41.91699981689453,12.48209953308105,Museum,08:33,6:00
+http://dbpedia.org/resource/Galleria_Spada,Galleria Spada,41.89390182495117,12.47220039367676,Museum,01:38,0:00
+http://dbpedia.org/resource/Museo_Barracco_di_Scultura_Antica,Museo Barracco di Scultura Antica,41.89611053466797,12.47722244262695,Museum,09:00,18:00
+http://dbpedia.org/resource/Museo_Nazionale_Romano,Museo Nazionale Romano,41.90125274658203,12.49829483032227,Museum,07:48,25:00
+http://dbpedia.org/resource/Museo_Storico_Nazionale_dell'Arte_Sanitaria,Museo Storico Nazionale dell'Arte Sanitaria,41.9015007019043,12.46269989013672,Museum,09:00,18:00
+http://dbpedia.org/resource/Museo_nazionale_degli_strumenti_musicali,Museo nazionale degli strumenti musicali,41.88890075683594,12.51469993591309,Museum,14:29,23:00
+http://dbpedia.org/resource/Museo_nazionale_del_Palazzo_di_Venezia,Museo nazionale del Palazzo di Venezia,41.89630126953125,12.48169994354248,Museum,09:48,11:00
+http://dbpedia.org/resource/Museum_of_Contemporary_Art_of_Rome,Museum of Contemporary Art of Rome,41.91360092163086,12.50279998779297,Museum,09:00,18:00
+http://dbpedia.org/resource/Museum_of_Roman_Civilization,Museum of Roman Civilization,41.83194351196289,12.47805595397949,Museum,09:00,18:00
+http://dbpedia.org/resource/MAXXI,MAXXI,41.92900085449219,12.46599960327148,Museum,09:01,12:00
+http://dbpedia.org/resource/Central_Archives_of_the_State_(Italy),Central Archives of the State (Italy),41.82860946655273,12.47666645050049,Museum,09:00,18:00
+http://dbpedia.org/resource/Palazzo_Barberini,Palazzo Barberini,41.90361022949219,12.49027824401855,Museum,07:30,26:00
+http://dbpedia.org/resource/Palazzo_delle_Esposizioni,Palazzo delle Esposizioni,41.89944458007812,12.48999977111816,Museum,20:12,19:00
+http://dbpedia.org/resource/Istituto_Nazionale_per_la_Grafica,Istituto Nazionale per la Grafica,41.90110015869141,12.48309993743896,Museum,08:23,0:00
+http://dbpedia.org/resource/Keats–Shelley_Memorial_House,Keats–Shelley Memorial House,41.90575408935547,12.4826135635376,Museum,09:00,18:00
+http://dbpedia.org/resource/Doria_Pamphilj_Gallery,Doria Pamphilj Gallery,41.89767074584961,12.48114490509033,Museum,09:00,18:00
+http://dbpedia.org/resource/Pigorini_National_Museum_of_Prehistory_and_Ethnography,Pigorini National Museum of Prehistory and Ethnography,41.83222198486328,12.4713888168335,Museum,09:00,18:00
+http://dbpedia.org/resource/Porta_San_Paolo_Railway_Museum,Porta San Paolo Railway Museum,41.87469863891602,12.48250007629395,Museum,09:00,18:00
+http://dbpedia.org/resource/French_Academy_in_Rome,French Academy in Rome,41.90833282470703,12.48250007629395,Museum,09:00,18:00
+http://dbpedia.org/resource/National_Etruscan_Museum,National Etruscan Museum,41.91830062866211,12.4778003692627,Museum,09:00,18:00
+http://dbpedia.org/resource/National_Museum_of_Oriental_Art,National Museum of Oriental Art,41.83246612548828,12.4716739654541,Museum,09:00,18:00
+http://dbpedia.org/resource/Romanian_Academy_in_Rome,Romanian Academy in Rome,41.91688537597656,12.47951412200928,Museum,09:00,18:00
+http://dbpedia.org/resource/Preziosissimo_Sangue_di_Nostro_Signore_Gesù_Cristo,Preziosissimo Sangue di Nostro Signore Gesù Cristo,41.94610214233398,12.47412776947021,HistoricBuilding,20:58,15:00
+http://dbpedia.org/resource/San_Bartolomeo_all'Isola,San Bartolomeo all'Isola,41.89027786254883,12.47833347320557,HistoricBuilding,06:57,23:00
+http://dbpedia.org/resource/San_Basilio_agli_Orti_Sallustiani,San Basilio agli Orti Sallustiani,41.90489959716797,12.48989963531494,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Benedetto_fuori_Porta_San_Paolo,San Benedetto fuori Porta San Paolo,41.87149810791016,12.47859954833984,HistoricBuilding,07:06,5:00
+http://dbpedia.org/resource/San_Bernardino_in_Panisperna,San Bernardino in Panisperna,41.89583206176758,12.48916625976562,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Biagio_della_Pagnotta,San Biagio della Pagnotta,41.89830017089844,12.46609973907471,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Bonaventura_al_Palatino,San Bonaventura al Palatino,41.88890075683594,12.48840045928955,HistoricBuilding,09:50,14:00
+http://dbpedia.org/resource/San_Bonaventura_da_Bagnoregio,San Bonaventura da Bagnoregio,41.86966323852539,12.57239246368408,HistoricBuilding,10:25,19:00
+http://dbpedia.org/resource/San_Callisto,San Callisto,41.88904571533203,12.47048568725586,HistoricBuilding,19:52,1:00
+http://dbpedia.org/resource/San_Camillo_de_Lellis,San Camillo de Lellis,41.90702056884766,12.49440574645996,HistoricBuilding,14:07,1:00
+http://dbpedia.org/resource/San_Carlo_ai_Catinari,San Carlo ai Catinari,41.89419555664062,12.47525024414062,HistoricBuilding,08:55,2:00
+http://dbpedia.org/resource/San_Carlo_al_Corso,San Carlo al Corso,41.90527725219727,12.4777774810791,HistoricBuilding,21:55,04:00
+http://dbpedia.org/resource/San_Cesareo_de_Appia,San Cesareo de Appia,41.87867736816406,12.4971170425415,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Clemente_al_Laterano,San Clemente al Laterano,41.88944625854492,12.4975004196167,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Corbiniano,San Corbiniano,41.74837875366211,12.37690734863281,HistoricBuilding,06:56,18:00
+http://dbpedia.org/resource/San_Cosimato,San Cosimato,41.88669586181641,12.47030639648438,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Crisogono,_Rome","San Crisogono, Rome",41.88909912109375,12.47373199462891,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Domenico_di_Guzmán,_Rome","San Domenico di Guzmán, Rome",41.98182678222656,12.55911731719971,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Felice_da_Cantalice_a_Centocelle,San Felice da Cantalice a Centocelle,41.87682342529297,12.56629180908203,HistoricBuilding,07:16,8:00
+http://dbpedia.org/resource/San_Filippo_Neri_in_Eurosia,San Filippo Neri in Eurosia,41.86069869995117,12.49279975891113,HistoricBuilding,07:18,18:00
+http://dbpedia.org/resource/San_Filippo_Neri_in_Via_Giulia,San Filippo Neri in Via Giulia,41.89716720581055,12.46744441986084,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Francesco_Saverio_alla_Garbatella,San Francesco Saverio alla Garbatella,41.86190032958984,12.48950004577637,HistoricBuilding,07:20,16:00
+http://dbpedia.org/resource/San_Francesco_d'Assisi_ad_Acilia,San Francesco d'Assisi ad Acilia,41.94865417480469,12.35201358795166,HistoricBuilding,18:12,2:00
+http://dbpedia.org/resource/San_Francesco_di_Paola_ai_Monti,San Francesco di Paola ai Monti,41.89380645751953,12.49144458770752,HistoricBuilding,19:54,4:00
+http://dbpedia.org/resource/San_Frumenzio_ai_Prati_Fiscali,San Frumenzio ai Prati Fiscali,41.94674301147461,12.51755523681641,HistoricBuilding,07:20,7:00
+http://dbpedia.org/resource/San_Gabriele_Arcangelo_all'Acqua_Traversa,San Gabriele Arcangelo all'Acqua Traversa,41.95034027099609,12.44344997406006,HistoricBuilding,20:16,24:00
+http://dbpedia.org/resource/San_Gabriele_dell'Addolorata,San Gabriele dell'Addolorata,41.863525390625,12.55934143066406,HistoricBuilding,00:37,20:00
+"http://dbpedia.org/resource/San_Gerardo_Maiella,_Rome","San Gerardo Maiella, Rome",41.88109970092773,12.5560998916626,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giacomo_Scossacavalli,San Giacomo Scossacavalli,41.90236282348633,12.46152782440186,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giacomo_in_Augusta,San Giacomo in Augusta,41.90777587890625,12.47722244262695,HistoricBuilding,07:23,3:00
+http://dbpedia.org/resource/San_Gioacchino_ai_Prati_di_Castello,San Gioacchino ai Prati di Castello,41.90999984741211,12.46500015258789,HistoricBuilding,07:24,11:00
+http://dbpedia.org/resource/San_Giorgio_e_Martiri_Inglesi,San Giorgio e Martiri Inglesi,41.90662002563477,12.48264122009277,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giorgio_in_Velabro,San Giorgio in Velabro,41.88953018188477,12.48313617706299,HistoricBuilding,14:38,22:00
+http://dbpedia.org/resource/San_Giovanni_Battista_Decollato,San Giovanni Battista Decollato,41.88990020751953,12.4818000793457,HistoricBuilding,09:39,27:00
+"http://dbpedia.org/resource/San_Giovanni_Battista_de_Rossi,_Rome","San Giovanni Battista de Rossi, Rome",41.8714714050293,12.51910972595215,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_Battista_dei_Cavalieri_di_Rodi,San Giovanni Battista dei Cavalieri di Rodi,41.89483642578125,12.48653030395508,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_Battista_dei_Genovesi,San Giovanni Battista dei Genovesi,41.88809967041016,12.4753999710083,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_Bosco_in_Via_Tuscolana,San Giovanni Bosco in Via Tuscolana,41.85879898071289,12.56560039520264,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Giovanni_Calibita,_Rome","San Giovanni Calibita, Rome",41.89086151123047,12.47779655456543,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_Crisostomo_al_Monte_Sacro_Alto,San Giovanni Crisostomo al Monte Sacro Alto,41.94051742553711,12.54289436340332,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giovanni_Evangelista_a_Spinaceto,San Giovanni Evangelista a Spinaceto,41.7859001159668,12.44379997253418,HistoricBuilding,07:26,12:00
+http://dbpedia.org/resource/San_Giovanni_a_Porta_Latina,San Giovanni a Porta Latina,41.87722396850586,12.50194454193115,HistoricBuilding,14:58,4:00
+http://dbpedia.org/resource/San_Giovanni_della_Malva_in_Trastevere,San Giovanni della Malva in Trastevere,41.89209365844727,12.46920394897461,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Giovanni_della_Pigna,_Rome","San Giovanni della Pigna, Rome",41.89730072021484,12.47809982299805,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Girolamo_a_Corviale,San Girolamo a Corviale,41.85260009765625,12.42210006713867,HistoricBuilding,07:26,2:00
+http://dbpedia.org/resource/San_Girolamo_dei_Croati,San Girolamo dei Croati,41.90499877929688,12.47570037841797,HistoricBuilding,10:21,01:00
+http://dbpedia.org/resource/San_Girolamo_della_Carità,San Girolamo della Carità,41.89530181884766,12.47020435333252,HistoricBuilding,14:57,15:00
+http://dbpedia.org/resource/San_Giuda_Taddeo_Apostolo,San Giuda Taddeo Apostolo,41.86783218383789,12.52600002288818,HistoricBuilding,10:17,21:00
+http://dbpedia.org/resource/San_Giuliano_Martire,San Giuliano Martire,41.97499847412109,12.42790031433105,HistoricBuilding,16:48,01:00
+http://dbpedia.org/resource/San_Giuliano_dei_Fiamminghi,San Giuliano dei Fiamminghi,41.89588928222656,12.47583293914795,HistoricBuilding,07:27,13:00
+http://dbpedia.org/resource/San_Giuseppe_al_Trionfale,San Giuseppe al Trionfale,41.91180038452148,12.45170021057129,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giuseppe_all'Aurelio,San Giuseppe all'Aurelio,41.90328216552734,12.41286754608154,HistoricBuilding,07:27,5:00
+http://dbpedia.org/resource/San_Giuseppe_alla_Lungara,San Giuseppe alla Lungara,41.89683532714844,12.46409130096436,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Giuseppe_da_Copertino,San Giuseppe da Copertino,41.81669616699219,12.48429584503174,HistoricBuilding,07:19,2:00
+http://dbpedia.org/resource/San_Giuseppe_dei_Falegnami,San Giuseppe dei Falegnami,41.8930549621582,12.4844446182251,HistoricBuilding,07:28,01:00
+"http://dbpedia.org/resource/San_Giustino,_Rome","San Giustino, Rome",41.8739013671875,12.5802001953125,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Gregorio_Barbarigo_alle_Tre_Fontane,San Gregorio Barbarigo alle Tre Fontane,41.82751083374023,12.47848796844482,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Gregorio_Magno_alla_Magliana_Nuova,San Gregorio Magno alla Magliana Nuova,41.8449821472168,12.45888519287109,HistoricBuilding,07:29,4:00
+http://dbpedia.org/resource/San_Gregorio_VII,San Gregorio VII,41.89816284179688,12.45011901855469,HistoricBuilding,10:43,1:00
+http://dbpedia.org/resource/San_Gregorio_della_Divina_Pietà,San Gregorio della Divina Pietà,41.89139938354492,12.47879981994629,HistoricBuilding,11:00,1:00
+http://dbpedia.org/resource/San_Leonardo_da_Porto_Maurizio_ad_Acilia,San Leonardo da Porto Maurizio ad Acilia,41.78322601318359,12.36624526977539,HistoricBuilding,10:35,21:00
+http://dbpedia.org/resource/San_Leone_I,San Leone I,41.89089965820312,12.52929973602295,HistoricBuilding,07:33,13:00
+"http://dbpedia.org/resource/San_Liborio,_Rome","San Liborio, Rome",41.94240188598633,12.56760025024414,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Lino,_Rome","San Lino, Rome",41.91289901733398,12.42259979248047,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Lorenzo_fuori_le_mura,San Lorenzo fuori le mura,41.90250015258789,12.52055549621582,HistoricBuilding,12:16,18:00
+http://dbpedia.org/resource/San_Lorenzo_in_Fonte_(Rome),San Lorenzo in Fonte (Rome),41.89555740356445,12.49361133575439,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Lorenzo_in_Panisperna,San Lorenzo in Panisperna,41.89724349975586,12.4931526184082,HistoricBuilding,08:17,9:00
+http://dbpedia.org/resource/San_Lorenzo_in_Piscibus,San Lorenzo in Piscibus,41.90166854858398,12.45916652679443,HistoricBuilding,07:34,22:00
+http://dbpedia.org/resource/San_Luca_a_Via_Prenestina,San Luca a Via Prenestina,41.88836288452148,12.53760814666748,HistoricBuilding,07:34,8:00
+http://dbpedia.org/resource/San_Luigi_Maria_Grignion_de_Montfort,San Luigi Maria Grignion de Montfort,41.93730163574219,12.42380046844482,HistoricBuilding,06:30,01:00
+"http://dbpedia.org/resource/San_Macuto,_Rome","San Macuto, Rome",41.89929962158203,12.47920036315918,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Marcello_al_Corso,San Marcello al Corso,41.898681640625,12.48176097869873,HistoricBuilding,19:00,27:00
+"http://dbpedia.org/resource/San_Marco_Evangelista_al_Campidoglio,_Rome","San Marco Evangelista al Campidoglio, Rome",41.89572143554688,12.48144435882568,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Marco_Evangelista_in_Agro_Laurentino,San Marco Evangelista in Agro Laurentino,41.82070159912109,12.48379993438721,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Marone,_Rome","San Marone, Rome",41.90791320800781,12.48728466033936,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Michele_Arcangelo_a_Pietralata,San Michele Arcangelo a Pietralata,41.91759872436523,12.55020046234131,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Michele_Arcangelo_ai_Corridori_di_Borgo,San Michele Arcangelo ai Corridori di Borgo,41.9033317565918,12.46327781677246,HistoricBuilding,06:28,09:00
+http://dbpedia.org/resource/San_Nicola_da_Tolentino_agli_Orti_Sallustiani,San Nicola da Tolentino agli Orti Sallustiani,41.90527725219727,12.49111080169678,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Nicola_dei_Lorenesi,San Nicola dei Lorenesi,41.89988708496094,12.47241687774658,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Nicola_in_Carcere,San Nicola in Carcere,41.89110946655273,12.47999954223633,HistoricBuilding,14:53,9:00
+http://dbpedia.org/resource/San_Pancrazio,San Pancrazio,41.8849983215332,12.45388889312744,HistoricBuilding,19:30,27:00
+"http://dbpedia.org/resource/San_Pantaleo,_Rome","San Pantaleo, Rome",41.89709854125977,12.47329998016357,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Paolo_alla_Regola,San Paolo alla Regola,41.89289855957031,12.47350025177002,HistoricBuilding,07:46,5:00
+http://dbpedia.org/resource/San_Paolo_alle_Tre_Fontane,San Paolo alle Tre Fontane,41.83446502685547,12.48320007324219,HistoricBuilding,07:46,6:00
+http://dbpedia.org/resource/San_Paolo_della_Croce_a_Corviale,San Paolo della Croce a Corviale,41.85390090942383,12.41419982910156,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Patrizio,San Patrizio,41.90861129760742,12.49305534362793,HistoricBuilding,09:57,8:00
+http://dbpedia.org/resource/San_Pellegrino_in_Vaticano,San Pellegrino in Vaticano,41.90500259399414,12.45696067810059,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Pier_Damiani_ai_Monti_di_San_Paolo,San Pier Damiani ai Monti di San Paolo,41.78789901733398,12.37979984283447,HistoricBuilding,10:11,06:00
+http://dbpedia.org/resource/San_Pietro_in_Montorio,San Pietro in Montorio,41.88859939575195,12.46660041809082,HistoricBuilding,07:25,2:00
+http://dbpedia.org/resource/San_Pio_X_alla_Balduina,San Pio X alla Balduina,41.91970062255859,12.44069957733154,HistoricBuilding,07:49,19:00
+http://dbpedia.org/resource/San_Policarpo_all'Acquedotto_Claudio,San Policarpo all'Acquedotto Claudio,41.85256958007812,12.55795574188232,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Ponziano,_Rome","San Ponziano, Rome",41.9473991394043,12.54469966888428,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Roberto_Bellarmino,_Rome","San Roberto Bellarmino, Rome",41.92333221435547,12.49305534362793,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Rocco,_Rome","San Rocco, Rome",41.90545654296875,12.4758996963501,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Romano_Martire,_Rome","San Romano Martire, Rome",41.91073989868164,12.53812217712402,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Salvatore_alle_Coppelle,San Salvatore alle Coppelle,41.900634765625,12.47604942321777,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Salvatore_in_Lauro,San Salvatore in Lauro,41.90077209472656,12.46958351135254,HistoricBuilding,06:48,3:00
+http://dbpedia.org/resource/San_Saturnino,San Saturnino,41.92250061035156,12.50769996643066,HistoricBuilding,13:52,29:00
+http://dbpedia.org/resource/San_Sebastiano_al_Palatino,San Sebastiano al Palatino,41.88967895507812,12.48865032196045,HistoricBuilding,10:35,27:00
+http://dbpedia.org/resource/San_Sisto_Vecchio,San Sisto Vecchio,41.88040161132812,12.49600028991699,HistoricBuilding,20:57,29:00
+"http://dbpedia.org/resource/San_Teodoro,_Rome","San Teodoro, Rome",41.89044570922852,12.48477745056152,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/San_Timoteo,San Timoteo,41.75210189819336,12.35620021820068,HistoricBuilding,18:17,05:00
+"http://dbpedia.org/resource/San_Vigilio,_Rome","San Vigilio, Rome",41.82953643798828,12.49228286743164,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/San_Vitale,_Rome","San Vitale, Rome",41.89966583251953,12.49086093902588,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Sant'Agata_de'_Goti,_Rome","Sant'Agata de' Goti, Rome",41.896484375,12.48949146270752,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Agata_in_Trastevere,Sant'Agata in Trastevere,41.88953018188477,12.47360992431641,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Sant'Agostino,_Rome","Sant'Agostino, Rome",41.90083312988281,12.47416687011719,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Alberto_Magno,Sant'Alberto Magno,41.96449279785156,12.53442764282227,HistoricBuilding,01:55,5:00
+http://dbpedia.org/resource/Sant'Alfonso_di_Liguori,Sant'Alfonso di Liguori,41.89581680297852,12.50032806396484,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Ambrogio_della_Massima,Sant'Ambrogio della Massima,41.89316558837891,12.47833347320557,HistoricBuilding,09:44,5:00
+http://dbpedia.org/resource/Sant'Anastasia_al_Palatino,Sant'Anastasia al Palatino,41.88806915283203,12.4841890335083,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Andrea_della_Valle,Sant'Andrea della Valle,41.89583206176758,12.47444438934326,HistoricBuilding,10:07,9:00
+http://dbpedia.org/resource/Sant'Angela_Merici,Sant'Angela Merici,41.92340087890625,12.52527618408203,HistoricBuilding,21:39,22:00
+http://dbpedia.org/resource/Sant'Angelo_in_Pescheria,Sant'Angelo in Pescheria,41.8927001953125,12.47869968414307,HistoricBuilding,12:25,28:00
+http://dbpedia.org/resource/Sant'Antonio_Abate_all'Esquilino,Sant'Antonio Abate all'Esquilino,41.89699935913086,12.50039958953857,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Antonio_da_Padova_in_Via_Merulana,Sant'Antonio da Padova in Via Merulana,41.88880920410156,12.50394439697266,HistoricBuilding,19:11,0:00
+http://dbpedia.org/resource/Sant'Antonio_da_Padova_in_Via_Tuscolana,Sant'Antonio da Padova in Via Tuscolana,41.88145446777344,12.5200777053833,HistoricBuilding,08:41,24:00
+http://dbpedia.org/resource/Sant'Antonio_dei_Portoghesi,Sant'Antonio dei Portoghesi,41.90197372436523,12.47447204589844,HistoricBuilding,12:30,8:00
+http://dbpedia.org/resource/Sant'Antonio_di_Padova_a_Circonvallazione_Appia,Sant'Antonio di Padova a Circonvallazione Appia,41.87517929077148,12.51291942596436,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Sant'Apollinare,_Rome","Sant'Apollinare, Rome",41.9008903503418,12.47361087799072,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Atanasio,Sant'Atanasio,41.90788650512695,12.47943687438965,HistoricBuilding,05:36,16:00
+http://dbpedia.org/resource/Sant'Atanasio_a_Via_Tiburtina,Sant'Atanasio a Via Tiburtina,41.91199493408203,12.54434204101562,HistoricBuilding,08:43,19:00
+"http://dbpedia.org/resource/Sant'Egidio,_Rome","Sant'Egidio, Rome",41.89016342163086,12.46877574920654,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Eugenio,Sant'Eugenio,41.91870498657227,12.47474956512451,HistoricBuilding,08:47,3:00
+http://dbpedia.org/resource/Sant'Eusebio,Sant'Eusebio,41.89627075195312,12.50371837615967,HistoricBuilding,21:16,20:00
+http://dbpedia.org/resource/Sant'Eustachio,Sant'Eustachio,41.89870071411133,12.47570037841797,HistoricBuilding,08:05,1:00
+"http://dbpedia.org/resource/Sant'Ignazio,_Rome","Sant'Ignazio, Rome",41.89899826049805,12.47977733612061,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Sant'Ippolito,_Rome","Sant'Ippolito, Rome",41.91077423095703,12.52123832702637,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Ireneo_a_Centocelle,Sant'Ireneo a Centocelle,41.88981246948242,12.56449794769287,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Ivo_dei_Bretoni,Sant'Ivo dei Bretoni,41.90258407592773,12.474778175354,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Omobono,Sant'Omobono,41.89055633544922,12.48083305358887,HistoricBuilding,22:10,04:00
+"http://dbpedia.org/resource/Sant'Onofrio,_Rome","Sant'Onofrio, Rome",41.89722061157227,12.46138858795166,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sant'Ugo,Sant'Ugo,41.9640007019043,12.51790046691895,HistoricBuilding,20:52,9:00
+"http://dbpedia.org/resource/Sant'Urbano_alla_Caffarella,_Rome","Sant'Urbano alla Caffarella, Rome",41.85784530639648,12.52430629730225,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Balbina,Santa Balbina,41.88051986694336,12.48966217041016,HistoricBuilding,21:50,02:00
+"http://dbpedia.org/resource/Santa_Barbara_dei_Librai,_Rome","Santa Barbara dei Librai, Rome",41.89480972290039,12.47374725341797,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Caterina_a_Magnanapoli,Santa Caterina a Magnanapoli,41.89599990844727,12.48690032958984,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Caterina_da_Siena_a_Via_Giulia,Santa Caterina da Siena a Via Giulia,41.89550018310547,12.46889972686768,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Caterina_dei_Funari,Santa Caterina dei Funari,41.89389801025391,12.47855377197266,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Cecilia_in_Trastevere,Santa Cecilia in Trastevere,41.88755416870117,12.47589206695557,HistoricBuilding,08:25,2:00
+"http://dbpedia.org/resource/Santa_Chiara,_Rome","Santa Chiara, Rome",41.89748764038086,12.47652244567871,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Costanza,Santa Costanza,41.92261505126953,12.51737499237061,HistoricBuilding,16:24,15:00
+http://dbpedia.org/resource/Santa_Croce_alla_Lungara,Santa Croce alla Lungara,41.89450073242188,12.46599960327148,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Croce_e_San_Bonaventura_alla_Pilotta,Santa Croce e San Bonaventura alla Pilotta,41.89970016479492,12.48449993133545,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Croce_in_Via_Flaminia,Santa Croce in Via Flaminia,41.92873001098633,12.46784019470215,HistoricBuilding,08:58,16:00
+http://dbpedia.org/resource/Santa_Dorotea,Santa Dorotea,41.89229965209961,12.46819972991943,HistoricBuilding,22:47,6:00
+http://dbpedia.org/resource/Santa_Emerenziana_a_Tor_Fiorenza,Santa Emerenziana a Tor Fiorenza,41.92885971069336,12.51579189300537,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Santa_Francesca_Romana,_Rome","Santa Francesca Romana, Rome",41.89117050170898,12.48885250091553,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Galla,Santa Galla,41.86780166625977,12.48960018157959,HistoricBuilding,11:56,6:00
+http://dbpedia.org/resource/Santa_Lucia_a_Piazza_d'Armi,Santa Lucia a Piazza d'Armi,41.91949844360352,12.4565315246582,HistoricBuilding,15:47,4:00
+http://dbpedia.org/resource/Santa_Lucia_del_Gonfalone,Santa Lucia del Gonfalone,41.89764022827148,12.46733283996582,HistoricBuilding,09:02,8:00
+http://dbpedia.org/resource/Santa_Lucia_in_Selci,Santa Lucia in Selci,41.89461135864258,12.49638843536377,HistoricBuilding,16:46,08:00
+"http://dbpedia.org/resource/Santa_Maria_Addolorata,_Rome","Santa Maria Addolorata, Rome",41.89619827270508,12.558424949646,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Addolorata_a_piazza_Buenos_Aires,Santa Maria Addolorata a piazza Buenos Aires,41.91812133789062,12.50079536437988,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Annunziata_in_Borgo,Santa Maria Annunziata in Borgo,41.90185928344727,12.4636058807373,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Antiqua,Santa Maria Antiqua,41.89099884033203,12.48558330535889,HistoricBuilding,20:05,7:00
+"http://dbpedia.org/resource/Santa_Maria_Ausiliatrice,_Rome","Santa Maria Ausiliatrice, Rome",41.87449645996094,12.53026676177979,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Consolatrice_al_Tiburtino,Santa Maria Consolatrice al Tiburtino,41.89751815795898,12.53515434265137,HistoricBuilding,13:12,00:00
+"http://dbpedia.org/resource/Santa_Maria_Domenica_Mazzarello,_Rome","Santa Maria Domenica Mazzarello, Rome",41.86019897460938,12.57679462432861,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Santa_Maria_Goretti,_Rome","Santa Maria Goretti, Rome",41.93149948120117,12.52130031585693,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Immacolata_all'Esquilino,Santa Maria Immacolata all'Esquilino,41.89099884033203,12.50599956512451,HistoricBuilding,09:08,24:00
+http://dbpedia.org/resource/Santa_Maria_Immacolata_di_Lourdes_a_Boccea,Santa Maria Immacolata di Lourdes a Boccea,41.90280151367188,12.42770004272461,HistoricBuilding,09:08,5:00
+http://dbpedia.org/resource/Santa_Maria_Liberatrice_a_Monte_Testaccio,Santa Maria Liberatrice a Monte Testaccio,41.87932586669922,12.4738712310791,HistoricBuilding,09:09,26:00
+http://dbpedia.org/resource/Santa_Maria_Maddalena,Santa Maria Maddalena,41.90007400512695,12.47672367095947,HistoricBuilding,18:00,15:00
+http://dbpedia.org/resource/Santa_Maria_Madre_del_Redentore_a_Tor_Bella_Monaca,Santa Maria Madre del Redentore a Tor Bella Monaca,41.87055587768555,12.63249969482422,HistoricBuilding,09:09,6:00
+http://dbpedia.org/resource/Santa_Maria_Madre_della_Provvidenza_a_Monte_Verde,Santa Maria Madre della Provvidenza a Monte Verde,41.87820053100586,12.45259952545166,HistoricBuilding,09:09,6:00
+http://dbpedia.org/resource/Santa_Maria_Maggiore,Santa Maria Maggiore,41.89749908447266,12.49861145019531,HistoricBuilding,15:04,8:00
+http://dbpedia.org/resource/Santa_Maria_Odigitria_al_Tritone,Santa Maria Odigitria al Tritone,41.9031982421875,12.48593044281006,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Regina_Mundi_a_Torre_Spaccata,Santa Maria Regina Mundi a Torre Spaccata,41.86589813232422,12.58150005340576,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_Regina_Pacis_a_Monte_Verde,Santa Maria Regina Pacis a Monte Verde,41.88130187988281,12.46129989624023,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_degli_Angeli_e_dei_Martiri,Santa Maria degli Angeli e dei Martiri,41.90305709838867,12.49694442749023,HistoricBuilding,22:44,5:00
+"http://dbpedia.org/resource/Santa_Maria_dei_Sette_Dolori,_Rome","Santa Maria dei Sette Dolori, Rome",41.88994216918945,12.46630573272705,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_del_Buon_Consiglio,Santa Maria del Buon Consiglio,41.86359405517578,12.55024909973145,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_del_Monte_Carmelo_a_Mostacciano,Santa Maria del Monte Carmelo a Mostacciano,41.80897903442383,12.44464778900146,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_del_Priorato_Church,Santa Maria del Priorato Church,41.88327789306641,12.47738933563232,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Santa_Maria_del_Suffragio,_Rome","Santa Maria del Suffragio, Rome",41.89789962768555,12.46640014648438,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_dell'Anima,Santa Maria dell'Anima,41.89974975585938,12.47202777862549,HistoricBuilding,09:51,9:00
+http://dbpedia.org/resource/Santa_Maria_dell'Orto,Santa Maria dell'Orto,41.88689422607422,12.4749813079834,HistoricBuilding,22:44,00:00
+http://dbpedia.org/resource/Santa_Maria_della_Concezione_dei_Cappuccini,Santa Maria della Concezione dei Cappuccini,41.90464019775391,12.48866653442383,HistoricBuilding,21:29,7:00
+http://dbpedia.org/resource/Santa_Maria_della_Consolazione,Santa Maria della Consolazione,41.89138793945312,12.48305511474609,HistoricBuilding,09:06,00:00
+"http://dbpedia.org/resource/Santa_Maria_della_Luce,_Rome","Santa Maria della Luce, Rome",41.88916778564453,12.47555541992188,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_della_Mercede_e_Sant'Adriano_a_Villa_Albani,Santa Maria della Mercede e Sant'Adriano a Villa Albani,41.91719818115234,12.50059986114502,HistoricBuilding,09:06,15:00
+http://dbpedia.org/resource/Santa_Maria_della_Pietà_in_Camposanto_dei_Teutonici,Santa Maria della Pietà in Camposanto dei Teutonici,41.9012565612793,12.45486068725586,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_della_Presentazione,Santa Maria della Presentazione,41.91232299804688,12.40104579925537,HistoricBuilding,22:21,21:00
+"http://dbpedia.org/resource/Santa_Maria_della_Quercia,_Rome","Santa Maria della Quercia, Rome",41.89472198486328,12.47177791595459,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_della_Salute_a_Primavalle,Santa Maria della Salute a Primavalle,41.9210319519043,12.41561222076416,HistoricBuilding,09:06,1:00
+http://dbpedia.org/resource/Santa_Maria_della_Scala,Santa Maria della Scala,41.89110946655273,12.46777820587158,HistoricBuilding,21:37,7:00
+http://dbpedia.org/resource/Santa_Maria_della_Speranza,Santa Maria della Speranza,41.95877456665039,12.52170467376709,HistoricBuilding,09:07,06:00
+"http://dbpedia.org/resource/Santa_Maria_della_Vittoria,_Rome","Santa Maria della Vittoria, Rome",41.90472412109375,12.49416637420654,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_delle_Grazie_a_Via_Trionfale,Santa Maria delle Grazie a Via Trionfale,41.90713882446289,12.44895553588867,HistoricBuilding,09:07,1:00
+http://dbpedia.org/resource/Santa_Maria_delle_Grazie_alle_Fornaci_fuori_Porta_Cavalleggeri,Santa Maria delle Grazie alle Fornaci fuori Porta Cavalleggeri,41.89762878417969,12.45474338531494,HistoricBuilding,09:07,1:00
+"http://dbpedia.org/resource/Santa_Maria_di_Loreto,_Rome","Santa Maria di Loreto, Rome",41.89611053466797,12.48416709899902,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_in_Aquiro,Santa Maria in Aquiro,41.89996337890625,12.47808074951172,HistoricBuilding,13:58,9:00
+http://dbpedia.org/resource/Santa_Maria_in_Campitelli,Santa Maria in Campitelli,41.89309310913086,12.47937870025635,HistoricBuilding,10:52,26:00
+http://dbpedia.org/resource/Santa_Maria_in_Cosmedin,Santa Maria in Cosmedin,41.88805389404297,12.48166656494141,HistoricBuilding,13:21,3:00
+http://dbpedia.org/resource/Santa_Maria_in_Domnica,Santa Maria in Domnica,41.88466644287109,12.49558353424072,HistoricBuilding,09:04,27:00
+http://dbpedia.org/resource/Santa_Maria_in_Monserrato_degli_Spagnoli,Santa Maria in Monserrato degli Spagnoli,41.89594268798828,12.46908092498779,HistoricBuilding,09:09,02:00
+http://dbpedia.org/resource/Santa_Maria_in_Monterone,Santa Maria in Monterone,41.896728515625,12.47570991516113,HistoricBuilding,18:27,29:00
+"http://dbpedia.org/resource/Santa_Maria_in_Monticelli,_Rome","Santa Maria in Monticelli, Rome",41.89310073852539,12.47410011291504,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_in_Publicolis,Santa Maria in Publicolis,41.89380645751953,12.47627735137939,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_in_Traspontina,Santa Maria in Traspontina,41.90277862548828,12.4622220993042,HistoricBuilding,15:56,8:00
+http://dbpedia.org/resource/Santa_Maria_in_Trastevere,Santa Maria in Trastevere,41.88944625854492,12.46972179412842,HistoricBuilding,22:31,6:00
+http://dbpedia.org/resource/Santa_Maria_in_Trivio,Santa Maria in Trivio,41.9011116027832,12.48250007629395,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Maria_in_Vallicella,Santa Maria in Vallicella,41.89861297607422,12.46916675567627,HistoricBuilding,15:39,07:00
+http://dbpedia.org/resource/Santa_Maria_in_Via_Lata,Santa Maria in Via Lata,41.89815521240234,12.48130035400391,HistoricBuilding,09:05,09:00
+http://dbpedia.org/resource/Santa_Marta_al_Collegio_Romano,Santa Marta al Collegio Romano,41.89760971069336,12.4799165725708,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Paola_Romana,Santa Paola Romana,41.91339874267578,12.44299983978271,HistoricBuilding,05:17,20:00
+http://dbpedia.org/resource/Santa_Passera,Santa Passera,41.85859680175781,12.46019744873047,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Santa_Prisca,_Rome","Santa Prisca, Rome",41.88302612304688,12.48383903503418,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Pudenziana,Santa Pudenziana,41.89841842651367,12.49555587768555,HistoricBuilding,09:23,4:00
+http://dbpedia.org/resource/Santa_Rita_da_Cascia_alle_Vergini,Santa Rita da Cascia alle Vergini,41.89979934692383,12.48289966583252,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Rita_da_Cascia_in_Campitelli,Santa Rita da Cascia in Campitelli,41.89250183105469,12.47999954223633,HistoricBuilding,11:04,01:00
+http://dbpedia.org/resource/Santa_Silvia,Santa Silvia,41.85599899291992,12.44970035552979,HistoricBuilding,23:40,10:00
+http://dbpedia.org/resource/Santa_Sofia_a_Via_Boccea,Santa Sofia a Via Boccea,41.91170883178711,12.39744472503662,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santa_Susanna,Santa Susanna,41.90425109863281,12.49363899230957,HistoricBuilding,08:46,4:00
+"http://dbpedia.org/resource/Santa_Teresa,_Rome","Santa Teresa, Rome",41.9114990234375,12.49489974975586,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Andrea_e_Bartolomeo_(Rome),Santi Andrea e Bartolomeo (Rome),41.88700103759766,12.50279998779297,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Angeli_Custodi_a_Città_Giardino,Santi Angeli Custodi a Città Giardino,41.93586730957031,12.53581428527832,HistoricBuilding,11:04,4:00
+"http://dbpedia.org/resource/Santi_Apostoli,_Rome","Santi Apostoli, Rome",41.89810562133789,12.48320579528809,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Aquila_e_Priscilla,Santi Aquila e Priscilla,41.86690139770508,12.47309970855713,HistoricBuilding,21:35,05:00
+http://dbpedia.org/resource/Santi_Bartolomeo_ed_Alessandro_dei_Bergamaschi,Santi Bartolomeo ed Alessandro dei Bergamaschi,41.90055465698242,12.47999954223633,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Benedetto_e_Scholastica,Santi Benedetto e Scholastica,41.89683151245117,12.47630596160889,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Celso_e_Giuliano,Santi Celso e Giuliano,41.90055847167969,12.46694469451904,HistoricBuilding,13:47,1:00
+http://dbpedia.org/resource/Santi_Claudio_e_Andrea_dei_Borgognoni,Santi Claudio e Andrea dei Borgognoni,41.90230560302734,12.48152732849121,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Domenico_e_Sisto,Santi Domenico e Sisto,41.89593505859375,12.48803043365479,HistoricBuilding,09:24,3:00
+http://dbpedia.org/resource/Santi_Fabiano_e_Venanzio_a_Villa_Fiorelli,Santi Fabiano e Venanzio a Villa Fiorelli,41.88472366333008,12.52166652679443,HistoricBuilding,09:24,5:00
+http://dbpedia.org/resource/Santi_Giovanni_Evangelista_e_Petronio,Santi Giovanni Evangelista e Petronio,41.8940315246582,12.47060966491699,HistoricBuilding,09:25,10:00
+http://dbpedia.org/resource/Santi_Luca_e_Martina,Santi Luca e Martina,41.89321899414062,12.48505020141602,HistoricBuilding,22:01,24:00
+http://dbpedia.org/resource/Santi_Marcellino_e_Pietro_al_Laterano,Santi Marcellino e Pietro al Laterano,41.88904571533203,12.50312805175781,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Martino_e_Sebastiano_degli_Svizzeri,Santi Martino e Sebastiano degli Svizzeri,41.90338516235352,12.45672225952148,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Martiri_dell'Uganda_a_Poggio_Ameno,Santi Martiri dell'Uganda a Poggio Ameno,41.84529876708984,12.49009990692139,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Nereo_e_Achilleo,Santi Nereo e Achilleo,41.88022232055664,12.49477767944336,HistoricBuilding,20:19,08:00
+http://dbpedia.org/resource/Santi_Pietro_e_Paolo_a_Via_Ostiense,Santi Pietro e Paolo a Via Ostiense,41.83369827270508,12.45930004119873,HistoricBuilding,09:25,6:00
+http://dbpedia.org/resource/Santi_Protomartiri_a_Via_Aurelia_Antica,Santi Protomartiri a Via Aurelia Antica,41.89459991455078,12.44130039215088,HistoricBuilding,09:25,8:00
+"http://dbpedia.org/resource/Santi_Quaranta_Martiri_e_San_Pasquale_Baylon,_Rome","Santi Quaranta Martiri e San Pasquale Baylon, Rome",41.8878288269043,12.47166919708252,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Quirico_e_Giulitta,Santi Quirico e Giulitta,41.89400100708008,12.48760032653809,HistoricBuilding,09:05,07:00
+http://dbpedia.org/resource/Santi_Sergio_e_Bacco,Santi Sergio e Bacco,41.89506530761719,12.49084377288818,HistoricBuilding,16:27,7:00
+http://dbpedia.org/resource/Santi_Venanzio_e_Ansovino,Santi Venanzio e Ansovino,41.89469528198242,12.48111057281494,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santi_Vincenzo_e_Anastasio_a_Trevi,Santi Vincenzo e Anastasio a Trevi,41.90069961547852,12.48390007019043,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissima_Trinità_a_Via_Condotti,Santissima Trinità a Via Condotti,41.90449905395508,12.47929954528809,HistoricBuilding,09:00,18:00
+"http://dbpedia.org/resource/Santissima_Trinità_dei_Pellegrini,_Rome","Santissima Trinità dei Pellegrini, Rome",41.89361190795898,12.47277736663818,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissime_Stimmate_di_San_Francesco,Santissime Stimmate di San Francesco,41.89638900756836,12.4777774810791,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissimo_Nome_di_Maria_al_Foro_Traiano,Santissimo Nome di Maria al Foro Traiano,41.89614105224609,12.4845552444458,HistoricBuilding,09:29,20:00
+http://dbpedia.org/resource/Santissimo_Nome_di_Maria_in_Via_Latina,Santissimo Nome di Maria in Via Latina,41.87120056152344,12.51140022277832,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissimo_Redentore_a_Valmelaina,Santissimo Redentore a Valmelaina,41.94803237915039,12.52847003936768,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissimo_Sacramento_a_Tor_de'_Schiavi,Santissimo Sacramento a Tor de' Schiavi,41.89210891723633,12.55771255493164,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santissimo_Sudario_all'Argentina,Santissimo Sudario all'Argentina,41.89600372314453,12.47563743591309,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santo_Spirito_dei_Napoletani,Santo Spirito dei Napoletani,41.89640045166016,12.46790027618408,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santo_Stanislao_dei_Polacchi,Santo Stanislao dei Polacchi,41.89479827880859,12.47929954528809,HistoricBuilding,23:06,08:00
+http://dbpedia.org/resource/Santo_Stefano_degli_Abissini,Santo Stefano degli Abissini,41.90179824829102,12.45187187194824,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Santo_Stefano_del_Cacco,Santo Stefano del Cacco,41.89722061157227,12.47916698455811,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Jubilee_Church,Jubilee Church,41.88249969482422,12.58555603027344,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Regina_degli_Apostoli_alla_Montagnola,Regina degli Apostoli alla Montagnola,41.85348510742188,12.48314094543457,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Villa_Balestra_(Rome),Villa Balestra (Rome),41.92111206054688,12.47388935089111,Park,09:00,18:00
+http://dbpedia.org/resource/Villa_Glori,Villa Glori,41.93083190917969,12.48055553436279,Park,15:50,7:00
+http://dbpedia.org/resource/Sacri_Cuori_di_Gesù_e_Maria_a_Tor_Fiorenza,Sacri Cuori di Gesù e Maria a Tor Fiorenza,41.93426895141602,12.51117324829102,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sacro_Cuore_del_Suffragio,Sacro Cuore del Suffragio,41.90419006347656,12.47232532501221,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Sacro_Cuore_di_Cristo_Re,Sacro Cuore di Cristo Re,41.91740036010742,12.46534729003906,HistoricBuilding,05:28,17:00
+http://dbpedia.org/resource/Sacro_Cuore_di_Gesù_a_Castro_Pretorio,Sacro Cuore di Gesù a Castro Pretorio,41.90277862548828,12.5026388168335,HistoricBuilding,05:28,29:00
+http://dbpedia.org/resource/Sacro_Cuore_di_Gesù_agonizzante_a_Vitinia,Sacro Cuore di Gesù agonizzante a Vitinia,41.79115676879883,12.40711116790771,HistoricBuilding,05:28,9:00
+http://dbpedia.org/resource/Sacro_Cuore_di_Maria,Sacro Cuore di Maria,41.92704772949219,12.48120212554932,HistoricBuilding,18:14,0:00
+http://dbpedia.org/resource/Church_of_the_Gesù,Church of the Gesù,41.89583206176758,12.47972202301025,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Gesù_Buon_Pastore_alla_Montagnola,Gesù Buon Pastore alla Montagnola,41.84583282470703,12.48222255706787,HistoricBuilding,17:08,13:00
+http://dbpedia.org/resource/Gesù_Divin_Lavoratore,Gesù Divin Lavoratore,41.86871337890625,12.46651363372803,HistoricBuilding,17:08,28:00
+http://dbpedia.org/resource/Gesù_Divin_Maestro_alla_Pineta_Sacchetti,Gesù Divin Maestro alla Pineta Sacchetti,41.92318725585938,12.42525959014893,HistoricBuilding,17:08,21:00
+"http://dbpedia.org/resource/Gesù_e_Maria,_Rome","Gesù e Maria, Rome",41.90800857543945,12.4776086807251,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Gran_Madre_di_Dio,Gran Madre di Dio,41.93849945068359,12.46560001373291,HistoricBuilding,00:53,19:00
+http://dbpedia.org/resource/Annunciazione_della_Beata_Vergine_Maria_a_Via_Ardeatina,Annunciazione della Beata Vergine Maria a Via Ardeatina,41.83568954467773,12.51202297210693,HistoricBuilding,13:55,0:00
+http://dbpedia.org/resource/Madonna_del_Rosario_(Rome),Madonna del Rosario (Rome),41.9208984375,12.44740009307861,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Bufalini_Chapel,Bufalini Chapel,41.89376831054688,12.48290538787842,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Trasfigurazione_di_Nostro_Signore_Gesù_Cristo,Trasfigurazione di Nostro Signore Gesù Cristo,41.87089920043945,12.44659996032715,HistoricBuilding,11:46,1:00
+"http://dbpedia.org/resource/All_Saints'_Church,_Rome","All Saints' Church, Rome",41.90829849243164,12.47889995574951,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Nostra_Signora_de_La_Salette,Nostra Signora de La Salette,41.87580108642578,12.44900035858154,HistoricBuilding,18:54,0:00
+http://dbpedia.org/resource/Nostra_Signora_del_Sacro_Cuore,Nostra Signora del Sacro Cuore,41.89825820922852,12.4735279083252,HistoricBuilding,14:31,11:00
+http://dbpedia.org/resource/Nostra_Signora_del_Santissimo_Sacramento_e_Santi_Martiri_Canadesi,Nostra Signora del Santissimo Sacramento e Santi Martiri Canadesi,41.9176139831543,12.51896667480469,HistoricBuilding,16:36,0:00
+http://dbpedia.org/resource/Nostra_Signora_di_Coromoto,Nostra Signora di Coromoto,41.86266708374023,12.4457311630249,HistoricBuilding,12:00,18:00
+http://dbpedia.org/resource/Nostra_Signora_di_Guadalupe_a_Monte_Mario,Nostra Signora di Guadalupe a Monte Mario,41.94380187988281,12.42405223846436,HistoricBuilding,18:43,15:00
+http://dbpedia.org/resource/Nostra_Signora_di_Guadalupe_e_San_Filippo_Martire,Nostra Signora di Guadalupe e San Filippo Martire,41.8939208984375,12.41668605804443,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Parco_degli_Acquedotti,Parco degli Acquedotti,41.84700012207031,12.5620002746582,Park,08:41,4:00
+http://dbpedia.org/resource/Lateran_Baptistery,Lateran Baptistery,41.88615036010742,12.50428867340088,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Spirito_Santo_alla_Ferratella,Spirito Santo alla Ferratella,41.81772994995117,12.47354030609131,HistoricBuilding,18:38,00:00
+"http://dbpedia.org/resource/St_Andrew's_Church,_Rome","St Andrew's Church, Rome",41.90305709838867,12.49166679382324,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Immacolata_Concezione_di_Maria_a_Grottarossa,Immacolata Concezione di Maria a Grottarossa,41.96220016479492,12.48799991607666,HistoricBuilding,23:14,07:00
+http://dbpedia.org/resource/Immacolata_al_Tiburtino,Immacolata al Tiburtino,41.89709854125977,12.51469993591309,HistoricBuilding,23:13,9:00
+http://dbpedia.org/resource/Natività_di_Gesù,Natività di Gesù,41.89799880981445,12.47200012207031,HistoricBuilding,23:19,17:00
+http://dbpedia.org/resource/Natività_di_Nostro_Signore_Gesù_Cristo_a_Via_Gallia,Natività di Nostro Signore Gesù Cristo a Via Gallia,41.88045120239258,12.50537014007568,HistoricBuilding,17:55,2:00
+"http://dbpedia.org/resource/Ognissanti,_Rome","Ognissanti, Rome",41.88000106811523,12.51583290100098,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Old_St._Peter's_Basilica,Old St. Peter's Basilica,41.9022216796875,12.45333290100098,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Oratorio_dei_Filippini,Oratorio dei Filippini,41.89822769165039,12.46870994567871,HistoricBuilding,10:43,27:00
+http://dbpedia.org/resource/Oratory_of_San_Francesco_Saverio_del_Caravita,Oratory of San Francesco Saverio del Caravita,41.89927673339844,12.47970008850098,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Oratory_of_Santissimo_Crocifisso,Oratory of Santissimo Crocifisso,41.89972305297852,12.48194408416748,HistoricBuilding,09:00,18:00
+http://dbpedia.org/resource/Monument_to_Nizami_Ganjavi_in_Rome,Monument to Nizami Ganjavi in Rome,41.91555404663086,12.48083305358887,Monument,09:00,18:00
+http://dbpedia.org/resource/Tomb_of_Caecilia_Metella,Tomb of Caecilia Metella,41.85216522216797,12.52090549468994,Monument,09:00,18:00
+http://dbpedia.org/resource/Lateran_Obelisk,Lateran Obelisk,41.88683319091797,12.5047779083252,Monument,09:00,18:00
+http://dbpedia.org/resource/Marconi_Obelisk,Marconi Obelisk,41.83354187011719,12.47082996368408,Monument,09:00,18:00
+http://dbpedia.org/resource/Teatro_Sistina,Teatro Sistina,41.90428161621094,12.48696136474609,Theatre,13:09,6:00
+http://dbpedia.org/resource/Teatro_Valle,Teatro Valle,41.89749908447266,12.47500038146973,Theatre,05:37,7:00

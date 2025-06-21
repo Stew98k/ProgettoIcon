@@ -1,0 +1,10 @@
+slot,label,uri,idx,type,score,cluster,cum_walk_s
+09:00–10:00,Preziosissimo Sangue di Nostro Signore Gesù Cristo,http://dbpedia.org/resource/Preziosissimo_Sangue_di_Nostro_Signore_Gesù_Cristo,37,HistoricBuilding,1.0,5,0.0
+10:00–11:00,San Giacomo alla Lungara,http://dbpedia.org/resource/San_Giacomo_alla_Lungara,0,Museum,1.0,5,719.5999755859375
+11:00–12:00,Oratorio dei Filippini,http://dbpedia.org/resource/Oratorio_dei_Filippini,325,HistoricBuilding,1.0,0,1029.8581237792969
+14:00–15:00,Immacolata Concezione di Maria a Grottarossa,http://dbpedia.org/resource/Immacolata_Concezione_di_Maria_a_Grottarossa,319,HistoricBuilding,1.0,0,2005.2581481933594
+13:00–14:00,Immacolata al Tiburtino,http://dbpedia.org/resource/Immacolata_al_Tiburtino,320,HistoricBuilding,1.0,7,3013.358123779297
+16:00–17:00,Natività di Nostro Signore Gesù Cristo a Via Gallia,http://dbpedia.org/resource/Natività_di_Nostro_Signore_Gesù_Cristo_a_Via_Gallia,322,HistoricBuilding,1.0,0,3343.2581176757812
+17:00–18:00,Oratory of Santissimo Crocifisso,http://dbpedia.org/resource/Oratory_of_Santissimo_Crocifisso,327,HistoricBuilding,1.0,0,3855.9581298828125
+12:00–13:00,Istituto Nazionale per la Grafica,http://dbpedia.org/resource/Istituto_Nazionale_per_la_Grafica,28,Museum,1.0,5,3986.039077758789
+15:00–16:00,Keats–Shelley Memorial House,http://dbpedia.org/resource/Keats–Shelley_Memorial_House,29,Museum,1.0,5,4137.039077758789
